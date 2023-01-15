@@ -128,7 +128,7 @@ body {
    }
    
    p {
-     font-family: cursive;
+     font-family: 'Times New Roman', Times, serif;
      margin: 40px;
      color: #333;
    }
